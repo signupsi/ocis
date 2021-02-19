@@ -7,7 +7,7 @@ require (
 	contrib.go.opencensus.io/exporter/ocagent v0.7.0
 	contrib.go.opencensus.io/exporter/zipkin v0.1.2
 	github.com/cs3org/go-cs3apis v0.0.0-20210209082852-35ace33082f5
-	github.com/cs3org/reva v1.6.0
+	github.com/cs3org/reva v1.6.1-0.20210218130854-a954e7242e7a
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-chi/render v1.0.1
 	github.com/go-ldap/ldap/v3 v3.2.4

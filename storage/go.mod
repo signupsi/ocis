@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.2 // indirect
-	github.com/cs3org/reva v1.6.0
+	github.com/cs3org/reva v1.6.1-0.20210218130854-a954e7242e7a
 	github.com/gofrs/uuid v3.3.0+incompatible
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/micro/cli/v2 v2.1.2
